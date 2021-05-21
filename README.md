@@ -1,2 +1,2 @@
 # Avg-of-nums
-This code calculates the average of numbers in a user entered list
+This repositery comprises of 100+ basic computer programs
