@@ -1,2 +1,2 @@
 # INTENSIVE PROGRAMMING UNIT
-This repositery comprises of 100+ basic computer programs
+This repositery comprises of 100+ challenging computer programs for beginners
