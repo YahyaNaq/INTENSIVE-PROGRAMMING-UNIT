@@ -1,3 +1,4 @@
+# Python Program to Calculate the Average of Numbers in a Given List
 add=0
 num=[]
 n=int(input("How many numbers do you want average of: "))
