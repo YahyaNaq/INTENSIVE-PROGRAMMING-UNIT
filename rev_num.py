@@ -1,3 +1,6 @@
+# Python Program to reverse a given number
+# Without using functions or taking number as a string
+
 rev_n=int(input("Please input a non-singular digit number: "))
 if rev_n>9 and rev_n<100:
     dDigrev_n=str(rev_n%10)+str(rev_n//10)
