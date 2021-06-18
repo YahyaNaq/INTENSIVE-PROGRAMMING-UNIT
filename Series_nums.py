@@ -11,3 +11,15 @@ for i in range(1, n+1):
 		series+=str(i)+"="+str(sum)
 print(series)
 
+
+# Without IF (A more optimized code)
+
+n=int(input("Please input a number: "))
+series=""
+sum=0
+for i in range(1, n):
+	sum+=i
+	series+=str(i)+"+"
+sum+=n
+series+=str(n)+"="+str(sum)
+print(series)
